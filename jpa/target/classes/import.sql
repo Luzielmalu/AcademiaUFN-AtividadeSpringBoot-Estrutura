@@ -1,0 +1,1 @@
+INSERT INTO clientes(id, primeiro_nome, ultimo_nome)VALUES ('Layla', 'Costa');
